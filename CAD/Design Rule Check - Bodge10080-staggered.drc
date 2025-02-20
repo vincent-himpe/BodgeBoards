@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : D:\FullyRouted\Projects\BodgeBoards\Bodge10080-staggered.PcbDoc
+Date     : 9/10/2024
+Time     : 2:06:26 PM
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.149995mm (5.9053mil) < 0.15mm (5.9055mil)) Between Pad Designator58-1(2.2mm,0.975mm) on Bottom Layer And Pad Designator58-2(2.2mm,0.325mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.149997mm (5.9054mil) < 0.15mm (5.9055mil)) Between Pad Designator58-5(-2.2mm,-0.975mm) on Bottom Layer And Pad Designator58-6(-2.2mm,-0.325mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.15mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.149995mm (5.9053mil) < 0.15mm (5.9055mil)) Between Pad Designator58-7(-2.2mm,0.325mm) on Bottom Layer And Pad Designator58-8(-2.2mm,0.975mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.15mm]
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.145mm < 0.15mm) Between Pad Designator57-1(-2.7mm,1.905mm) on Top Layer And Track (-3.375mm,2.425mm)(-2.15mm,2.425mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.145mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-17(-7.5mm,5mm) on Bottom Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-18(-12.5mm,5mm) on Bottom Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-5(3.81mm,3.81mm) on Multi-Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-6(1.27mm,3.81mm) on Multi-Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-7(-1.27mm,3.81mm) on Multi-Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad Free-8(-3.81mm,3.81mm) on Multi-Layer And Text "Designator58" (2.956mm,3.048mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+Rule Violations :7
+
+Processing Rule : Silk to Silk (Clearance=0mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 10
+Waived Violations : 0
+Time Elapsed        : 00:00:01

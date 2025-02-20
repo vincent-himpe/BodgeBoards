@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Bodge10080.PcbDoc]
+   Generated File[Bodge10080.TXT]
+   Generated File[Bodge10080.LDP]
+   Generated File[Bodge10080.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:15:53 PM On 9/11/2024

@@ -1,0 +1,299 @@
+*************************************************************
+FileName = Bodge10080.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom 3D Body
+      File : Bodge10080.GM5
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Bodge10080.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Bodge10080.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Bodge10080.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Bodge10080.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Bodge10080.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Bodge10080.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Bodge10080.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Bodge10080.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Bodge10080.GM2
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Bodge10080.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Bodge10080.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Bodge10080.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Bodge10080.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Bodge10080.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Bodge10080.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Bodge10080.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Bodge10080.GM3
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Bodge10080.GM14
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Bodge10080.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Bodge10080.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Bodge10080.GM
+
+
+Used DCodes :
+    D32
+*************************************************************
+
