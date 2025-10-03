@@ -1,0 +1,11 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BodgeBoard_BBTSSO8.PcbDoc]
+   Generated File[BBTSSOP8.LDP]
+   Generated File[BBTSSOP8.DRR]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 8:21:18 PM On 10/2/2025
